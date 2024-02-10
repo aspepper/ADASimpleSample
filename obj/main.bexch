@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/Users/alexpimenta/Projects/DevForge/ADA/default.gpr
+20240208020849 742182e80e04de554c7f0df51ddd4c60
+[BOUND OBJECT FILES]
+/Users/alexpimenta/Projects/DevForge/ADA/obj/week.o
+/Users/alexpimenta/Projects/DevForge/ADA/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/Users/alexpimenta/Projects/DevForge/ADA/obj/
+-L/Users/alexpimenta/Projects/DevForge/ADA/obj/
+-L/opt/gcc-13.1.0/lib/gcc/x86_64-apple-darwin21/13.1.0/adalib/
+-static
+/opt/gcc-13.1.0/lib/gcc/x86_64-apple-darwin21/13.1.0/adalib/libgnat.a
